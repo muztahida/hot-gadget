@@ -1,0 +1,75 @@
+.nav-item{
+    color: black;
+}
+
+.col{
+    padding-top: 10%;
+    padding-right: 10%;
+}
+p{
+    font-size: 13px;
+    color: dimgray;
+    padding-top: 5px;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 15px;
+    margin-top: 5%;
+}
+.sec3{
+    margin-top: 20px;
+}
+.card{
+    border: none;
+}
+.card-img-top{
+    width: 160px;
+    height: auto;
+   
+    margin:10px auto;
+    display: block;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.center-link{
+    color: aliceblue;
+    font-size: 13px;
+    margin:10px auto;
+    display:block;
+    text-align:center;
+    width: fit-content;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    
+}
+.pale-order{
+    height: 300px;
+    width: 300px;
+    justify-content: center;
+    
+}
+.bag{
+    height: 90px;
+    width: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.perfium{
+    height: 100px;
+    width: 100px;
+}
+.shoe{
+    height: 100px;
+    width: 100px;
+
+}
